@@ -23,7 +23,7 @@ The game can be played in 2 ways :<br>
 - The server device cannot play the game.
 
 **Players can join from both PC and Android and must be on same LAN/WiFi.**
-<hr>
+
 ### Bugs
 - If something does not work properly just restart.<br>
 - There is a bug where if it fails to connect it just shows a blank screen instead of a helpful message. Just restart the game and check your connection
