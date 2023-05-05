@@ -11,6 +11,19 @@ This is a modified/remixed version of the
 - Bugs.
 - And a new spaceship.
 
+### Instructions
+The game can be played in 2 ways :<br>
+#### Gamemode A :
+- One player has to join as host.
+- Other players has to join as client.
+- The host device will have the advantage of the lowest latency.
+#### Gamemode B :
+- One device has to join as server.
+- Other players has to join as client.
+- The server device cannot play the game.
+
+**Players can join from both PC and Android and must be on same LAN/WiFi.**
+
 ### Bugs
 - If something does not work properly just restart.<br>
 - There is a bug where if it fails to connect it just shows a blank screen instead of a helpful message. Just restart the game and check your connection
