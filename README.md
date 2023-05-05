@@ -2,7 +2,7 @@
  A modified version of Unity Multiplayer Tutorial
 
 This is a modified/remixed version of the 
- [2D Space Shooter Sample](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize/tree/main/Basic/2DSpaceShooter) created by Unity.
+ [2D Space Shooter Sample](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize/tree/main/Basic/2DSpaceShooter) created by **Unity**.
 
 ### With added features like:
 - Play in a LAN Party.
@@ -24,8 +24,10 @@ The game can be played in 2 ways :<br>
 
 **Players can join from both PC and Android and must be on same LAN/WiFi.**
 
+**Playable versions are in Assets/Scenes/MyScenes**
+
 ### Bugs
-- If something does not work properly just restart.<br>
+- If something does not work properly just restart.
 - There is a bug where if it fails to connect it just shows a blank screen instead of a helpful message. Just restart the game and check your connection
 to the WiFi/LAN.
 
