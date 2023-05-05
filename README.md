@@ -30,5 +30,5 @@ The game can be played in 2 ways :<br>
 to the WiFi/LAN.
 
 ## Screenshots
-![Screenshot2](https://user-images.githubusercontent.com/35128994/236508694-2c34cae7-0cec-4749-b213-f663888c73c7.jpg)
 ![Screenshot1](https://user-images.githubusercontent.com/35128994/236508796-76949217-ac58-4377-91f6-b1223108a26b.jpg)
+![Screenshot2](https://user-images.githubusercontent.com/35128994/236508694-2c34cae7-0cec-4749-b213-f663888c73c7.jpg)
