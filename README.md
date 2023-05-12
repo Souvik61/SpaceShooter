@@ -8,7 +8,7 @@ This is a modified/remixed version of the
 - Play in a LAN Party.
 - Players can play from both Android/PC.
 - Auto Local IP detection.
-- Bugs.
+- Two types of connection modes.
 - And a new spaceship.
 
 ### Instructions
@@ -37,3 +37,11 @@ to the WiFi/LAN.
 ![Screenshot 2023-05-06 214602](https://user-images.githubusercontent.com/35128994/236635899-a7b3e538-a468-4701-8b8d-bee26c979c25.png)
 ![Screenshot_20230506-214650](https://user-images.githubusercontent.com/35128994/236635911-fe7feb0b-c686-4683-8270-34b98e718024.png)
 ![Screenshot_20230506-214704_SpaceShooter](https://user-images.githubusercontent.com/35128994/236635914-b3ec3e16-6066-4fed-bfa2-56d463a1c1ff.jpg)
+
+### Feats
+- Modified the original demo game to work with android.
+- Programmed to automatically find the local ip of the device in the network for connection.
+- Removed PostProcessing and Effects for improved performance in mobile devices.
+- Changed original ship sprites/fire modes.
+- Modified so that the same code base works with Android and PC.
+- Improved UI and added help texts.
